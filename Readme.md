@@ -1,6 +1,6 @@
 ### Clone The Repo
 
-`git clone git@github.com:speedbot/.git`
+`git clone git@github.com:speedbot/agri.git`
 
 ### Set up the virtual environment
 
